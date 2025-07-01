@@ -1,0 +1,47 @@
+location	Arkansas(USA)	#7F8B52
+location	Argentina	#798BA7
+location	Australia	#C49B66
+location	Brazil	#7C9984
+location	California(USA)	#A27C6D
+location	China	#768BA5
+location	Connecticut(USA)	#9C6D56
+location	Gabon	#3F6D5B
+location	Germany	#6E6360
+location	Japan	#A78386
+location	Kenya	#96694A
+location	Maryland(USA)	#79989E
+location	Massachusetts(USA)	#B59C8B
+location	Mexico	#C46F4D
+location	Netherlands	#718273
+location	New Jersey(USA)	#5F7F92
+location	New Mexico(USA)	#C78B63
+location	New York(USA)	#847E88
+location	Norway	#50697F
+location	Ohio(USA)	#A66E56
+location	Oregon(USA)	#57715A
+location	Pennsylvania(USA)	#8D6C54
+location	Peru	#B3705E
+location	Russia	#586475
+location	South Korea	#7C8894
+location	Spain	#C67A5B
+location	Switzerland	#A8A6A1
+location	Taiwan	#9C7087
+location	Tennessee(USA)	#A95B46
+location	Thailand	#BB7B84
+location	USA	#646A59
+location	Uganda	#776F4E
+location	Vietnam	#9D735F
+location	Virginia(USA)	#7D6D64
+location	Washington(USA)	#4D5E4E
+location	Wisconsin(USA)	#7A8783
+location	Zambia	#927B5E
+
+region	East-Africa	#a85c45
+region	Central-Africa	#a80c25
+region	East-Asia	#c17c3c
+region	Eastern-Europe	#d2a03e
+region	North-America	#c9b76d
+region	Oceania	#a7ba90
+region	South-America	#8a9e91
+region	Southeast-Asia	#6e83a2
+region	Western-Europe	#5b698e

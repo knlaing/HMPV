@@ -1,0 +1,48 @@
+location	Australia	-24.7761086	134.7550000
+location	Argentina	-34.9964963	-64.9672817
+location	Arkansas(USA)	34.7486492	-92.2744881
+location	Brazil	-10.3333333	-53.2000000
+location	California(USA)	36.7014631	-118.7559970
+location	China	35.0000663	104.9999550
+location	Connecticut(USA)	41.6500201	-72.7342163
+location	Gabon	-0.8999695	11.6899699
+location	Germany	51.1638175	10.4478313
+location	Japan	36.5748441	139.2394179
+location	Kenya	1.4419683	38.4313975
+location	Maryland(USA)	39.5162401	-76.9382069
+location	Massachusetts(USA)	42.3788774	-72.0323660
+location	Mexico	23.6585116	-102.0077097
+location	Netherlands	52.2434979	5.6343227
+location	New Jersey(USA)	40.0757384	-74.4041622
+location	New Mexico(USA)	34.5802074	-105.9960470
+location	New York(USA)	40.7127281	-74.0060152
+location	Norway	61.1529386	8.7876653
+location	Ohio(USA)	40.2253569	-82.6881395
+location	Oregon(USA)	43.9792797	-120.7372570
+location	Pennsylvania(USA)	40.9699889	-77.7278831
+location	Peru	-6.8699697	-75.0458515
+location	Russia	64.6863136	97.7453061
+location	South Korea	36.6383920	127.6961188
+location	Spain	39.3260685	-4.8379791
+location	Switzerland	46.7985624	8.2319736
+location	Taiwan	23.9739374	120.9820179
+location	Tennessee(USA)	35.7730076	-86.2820081
+location	Thailand	14.8971921	100.8327300
+location	USA	39.7837304	-100.4458820
+location	Uganda	1.5333554	32.2166578
+location	Vietnam	15.9266657	107.9650855
+location	Virginia(USA)	37.1232245	-78.4927721
+location	Washington(USA)	38.8950368	-77.0365427
+location	Wisconsin(USA)	44.4308975	-89.6884637
+location	Zambia	-14.5189121	27.5589884
+location	Rwanda	-1.9403	29.8739
+
+region	South-America	-14.2350	-51.9253
+region	North-America	54.5260	-105.2551
+region	Oceania	-22.7359	140.0188
+region	East-Asia	35.0000	105.0000
+region	Central-Africa	0.0000	25.0000
+region	Western-Europe	50.0000	5.0000
+region	Eastern-Europe	50.0000	30.0000
+region	East-Africa	-4.0000	37.0000
+region	Southeast-Asia	15.0000	100.0000
